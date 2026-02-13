@@ -4,16 +4,21 @@
 
 ## 🧑‍💻 Work Experience
 
-🗓️ _2024 - Present_ 📍 Paris    | **manager data scientist @ capgemini invent** 
-🗓️ _2021 - 2024_    📍 Paris    | **data scientist @ quantmetry** 
-🗓️ _2020 - 2021_    📍 Malaysia | **deployment & research engineer @ serimax (vallourec)** 
-🗓️ _2015 - 2029_    📍 Paris    | **team lead for development of car breaking system @ bosch** 
+🗓️ _2024 - Present_ 📍 Paris    | **manager data scientist @ capgemini invent**
+
+🗓️ _2021 - 2024_    📍 Paris    | **data scientist @ quantmetry**
+
+🗓️ _2020 - 2021_    📍 Malaysia | **deployment & research engineer @ serimax (vallourec)**
+
+🗓️ _2015 - 2029_    📍 Paris    | **team lead for development of car breaking system @ bosch**
 
 ## 🎓 Academical Education
 
-🗓️ _2020_ 📍 Paris    | M.S., Data Science   | **yotta (bootcamp data science)** 
-🗓️ _2015_ 📍 Toulouse | M.S., Engineering    | **icam** | 
-🗓️ _2015_ 📍 Toulouse | R.M.S., Mechanical   | **university III toulouse** 
+🗓️ _2020_ 📍 Paris    | M.S., Data Science   | **yotta (bootcamp data science)**_
+
+🗓️ _2015_ 📍 Toulouse | M.S., Engineering    | **icam**_
+
+🗓️ _2015_ 📍 Toulouse | R.M.S., Mechanical   | **university III toulouse**_
 
 ## 🔧 Technical Skills: NLP, GenAI, Python, SQL, Bash, Azure 
 
