@@ -27,8 +27,8 @@ This portfolio is guaranteed to be generated without any llm.
 
 ### ✨ Data Science, GenAI & Software Engineering projects related (all my projects are linked to a documentation)
 
-- [how to fine tune a mistral model on colab](https://github.com/VandvC/finetune_llama7b) : cool project where I managed to fine tune a 7b parameters using quantization techniques and lora (during the hype peak), on google colab free tier.
-- [how to logging like a pro](https://google.com)
+- [how to fine tune a mistral model on colab](https://github.com/VandvC/finetune_llama7b){:target="_blank" rel="noopener"}: cool project where I managed to fine tune a 7b parameters using quantization techniques and lora (during the hype peak), on google colab free tier.
+- [how to logging like a pro](https://google.com){:target="_blank" rel="noopener"}
 
 ### 💸 Personal projects and (maybe) blogs associated
 
