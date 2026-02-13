@@ -53,5 +53,7 @@
 
 About myself:\
 born during the early 90's, I had to be 33 to do my first porfolio.better late than never.\
-This portfolio is guaranteed to be generated without any llm.
+
+
+_<font size=-3\">This portfolio is guaranteed to be generated without any llm.</font>_
   
