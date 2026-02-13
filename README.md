@@ -14,11 +14,11 @@
 
 ## 🎓 Academical Education
 
-🗓️ _2020_ 📍 Paris    - M.S., Data Science   - **yotta (bootcamp data science)**_
+🗓️ _2020_ 📍 Paris    - M.S., Data Science   - **yotta (bootcamp data science)**
 
-🗓️ _2015_ 📍 Toulouse - M.S., Engineering    - **icam**_
+🗓️ _2015_ 📍 Toulouse - M.S., Engineering    - **icam**
 
-🗓️ _2015_ 📍 Toulouse - R.M.S., Mechanical   - **university III toulouse**_
+🗓️ _2015_ 📍 Toulouse - R.M.S., Mechanical   - **university III toulouse**
 
 ## 🔧 Technical Skills
 
