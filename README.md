@@ -1,4 +1,4 @@
-# Data Scientist | NLP expert | Manager
+# NLP Data Scientist | Manager
 
 #### 🔧 Technical Skills: NLP, GenAI, Python, SQL, Bash, Azure 
 
